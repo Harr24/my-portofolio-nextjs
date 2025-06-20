@@ -5,13 +5,12 @@ export const projectsData = [
     id: 1,
     name: 'Smart Garden',
     description:
-      'Sistem IoT untuk memantau dan mengatur kelembapan tanah, suhu, cahaya, dan kelembapan udara. Otomatisasi pompa air saat tanah kering, serta pencahayaan otomatis saat tingkat cahaya rendah. Dikembangkan menggunakan Raspberry Pi, Arduino, protokol MQTT, dengan dashboard backend menggunakan Flask/Python.',
+      'Sistem IoT untuk memantau dan mengatur kelembapan tanah, suhu, cahaya, dan kelembapan udara. Otomatisasi pompa air saat tanah kering, serta pencahayaan otomatis saat tingkat cahaya rendah. Backend menggunakan Flask/Python, Raspberry Pi dan Arduino dengan komunikasi via MQTT.',
     tools: ['Raspberry Pi', 'Arduino', 'MQTT', 'Flask', 'Python'],
-    role: 'IoT Developer & Backend',
+    role: 'IoT & Backend Developer',
     code: 'https://github.com/Harr24/smart-garden',
-    demo: '', // tambahkan link demo atau video jika ada
+    demo: '',
   },
-  // Contoh template kosong (boleh dipakai untuk menambahkan proyek selanjutnya)
   {
     id: 2,
     name: '',
@@ -22,7 +21,6 @@ export const projectsData = [
     demo: '',
   },
 ];
-
 
 
 // Do not remove any property.
