@@ -1,20 +1,23 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "SMK Muhammadiyah 1 Playen",
+    duration: "2019 – 2021",
+    institution:
+      "SMK Muhammadiyah 1 Playen (Teknik Komputer Jaringan)",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "PKL Naraya Computer",
+    duration: "Feb 2021 – Apr 2021",
+    institution: "Naraya Computer",
+    description: "Praktik kerja lapangan di bidang jaringan & support",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Universitas Bina Sarana Informatika",
+    duration: "2022 – Sekarang",
+    institution:
+      "Universitas Bina Sarana Informatika (Teknik Informatika)",
   }
-]
+];
